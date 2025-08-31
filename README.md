@@ -1,15 +1,4 @@
 
-# RAG PDF CHATBOT 
-
-# This single Python script contains the entire application:
-# 1. The Flask web server (backend).
-# 2. The HTML, CSS, and JavaScript for the user interface (frontend).
-# 3. The RAG pipeline logic to process PDFs and answer questions.
-# 4. All necessary documentation and setup instructions.
-
-
-# SECTION 1: PROJECT DOCUMENTATION (README.md)
-
 """
 # RAG PDF Chatbot with Web UI
 
